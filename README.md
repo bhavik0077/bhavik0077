@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning on javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-    - Insta - bhaviknanda
-    - thread - bhaviknanda
+    - Insta - bhavik_nanda__
+    - LinkedIN - linkedin.com/in/bhavik-nanda-056820263
     - Email - bhaviknanda155@gmail.com
 
 <!---
